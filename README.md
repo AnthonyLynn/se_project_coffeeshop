@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Adding more animations throughout the web page.
+- Add background elements to text and forms.
+- Images of food and drinks to help with marketing.
