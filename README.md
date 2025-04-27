@@ -23,3 +23,9 @@ Website: https://anthonylynn.github.io/se_project_coffeeshop/
 - Adding more animations throughout the web page.
 - Add background elements to text and forms.
 - Images of food and drinks to help with marketing.
+
+## Images
+
+Page:
+
+![Page](src/images/CoffeeShopGif.gif)
