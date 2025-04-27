@@ -8,6 +8,7 @@ Website: https://anthonylynn.github.io/se_project_coffeeshop/
 
 - [Project Features](#Project-features)
 - [Plans on improving project](#Plans-on-improving-project)
+- [Images](#images)
 
 ## Project features
 
