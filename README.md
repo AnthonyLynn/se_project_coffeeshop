@@ -1,7 +1,8 @@
 # Triple Peaks Coffee Shop
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
-https://anthonylynn.github.io/se_project_coffeeshop/
+
+Website: https://anthonylynn.github.io/se_project_coffeeshop/
 
 ## Table of contents
 
