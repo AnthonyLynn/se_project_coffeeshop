@@ -2,6 +2,11 @@
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
+## Table of contents
+
+[Project Features](## Project features)
+[Plans on improving project](## Plans on improving project)
+
 ## Project features
 
 - Semantic HTML5
@@ -11,7 +16,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+## Plans on improving project
 
 - Adding more animations throughout the web page.
 - Add background elements to text and forms.
