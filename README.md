@@ -28,4 +28,4 @@ Website: https://anthonylynn.github.io/se_project_coffeeshop/
 
 Page:
 
-![Page](src/images/CoffeeShopGif.gif)
+![Page](images/CoffeeShopGif.gif)
