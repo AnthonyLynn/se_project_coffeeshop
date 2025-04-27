@@ -4,8 +4,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Table of contents
 
-[Project Features](## Project features)
-[Plans on improving project](## Plans on improving project)
+[Project Features](#Project-features)
+[Plans on improving project](#Plans-on-improving-project)
 
 ## Project features
 
